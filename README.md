@@ -1,2 +1,2 @@
 # dcbot
-Use `dicord api` to create bots that do simple tasks
+Use Discord API to create bots that do simple tasks
